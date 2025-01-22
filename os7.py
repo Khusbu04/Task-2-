@@ -27,4 +27,5 @@ def file_cleanup(directory, days):
 
 # Example usage
 file_cleanup('/path/to/directory', 30)  # Change the path and days as needed
-# self
+
+# self wrong

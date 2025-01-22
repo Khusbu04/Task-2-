@@ -1,0 +1,77 @@
+Current Working Directory: C:\Users\Khusbu Maya Singh\Desktop\Task2
+Disk Usage:
+ Total: 236.89 GB
+ Used: 50.77 GB
+ Free: 186.12 GB
+System Information:
+
+Host Name:                     DESKTOP-6V1OIHV
+OS Name:                       Microsoft Windows 11 Home
+OS Version:                    10.0.26100 N/A Build 26100
+OS Manufacturer:               Microsoft Corporation
+OS Configuration:              Standalone Workstation
+OS Build Type:                 Multiprocessor Free
+Registered Owner:              Khusbu Maya Singh
+Registered Organization:       
+Product ID:                    00342-22311-92609-AAOEM
+Original Install Date:         1/13/2025, 6:01:16 AM
+System Boot Time:              1/15/2025, 1:35:41 PM
+System Manufacturer:           LENOVO
+System Model:                  83JC
+System Type:                   x64-based PC
+Processor(s):                  1 Processor(s) Installed.
+                               [01]: AMD64 Family 25 Model 68 Stepping 1 AuthenticAMD ~2469 Mhz
+BIOS Version:                  LENOVO PQCN06WW, 3/4/2024
+Windows Directory:             C:\Windows
+System Directory:              C:\Windows\system32
+Boot Device:                   \Device\HarddiskVolume1
+System Locale:                 en-us;English (United States)
+Input Locale:                  en-us;English (United States)
+Time Zone:                     (UTC+05:45) Kathmandu
+Total Physical Memory:         16,069 MB
+Available Physical Memory:     9,384 MB
+Virtual Memory: Max Size:      19,013 MB
+Virtual Memory: Available:     10,556 MB
+Virtual Memory: In Use:        8,457 MB
+Page File Location(s):         C:\pagefile.sys
+Domain:                        WORKGROUP
+Logon Server:                  \\DESKTOP-6V1OIHV
+Hotfix(s):                     3 Hotfix(s) Installed.
+                               [01]: KB5049622
+                               [02]: KB5050009
+                               [03]: KB5050387
+Network Card(s):               3 NIC(s) Installed.
+                               [01]: Bluetooth Device (Personal Area Network)
+                                     Connection Name: Bluetooth Network Connection
+                                     Status:          Media disconnected
+                               [02]: Realtek PCIe GbE Family Controller
+                                     Connection Name: Ethernet
+                                     Status:          Media disconnected
+                               [03]: Realtek RTL8852BE WiFi 6 802.11ax PCIe Adapter
+                                     Connection Name: Wi-Fi 2
+                                     DHCP Enabled:    Yes
+                                     DHCP Server:     192.168.1.254
+                                     IP address(es)
+                                     [01]: 192.168.1.177
+                                     [02]: fe80::b2f3:1a19:7ca0:f892
+                                     [03]: 2400:1a00:b040:536c:1e3:fa87:b569:d09
+                                     [04]: 2400:1a00:b040:536c:e2b5:51b4:fb42:dd5d
+Virtualization-based security: Status: Running
+                               Required Security Properties:
+                                     Base Virtualization Support
+                               Available Security Properties:
+                                     Base Virtualization Support
+                                     Secure Boot
+                                     DMA Protection
+                                     UEFI Code Readonly
+                                     SMM Security Mitigations 1.0
+                                     Mode Based Execution Control
+                               Services Configured:
+                                     Hypervisor enforced Code Integrity
+                               Services Running:
+                                     Hypervisor enforced Code Integrity
+                               App Control for Business policy: Enforced
+                               App Control for Business user mode policy: Audit
+                               Security Features Enabled:
+Hyper-V Requirements:          A hypervisor has been detected. Features required for Hyper-V will not be displayed.
+
