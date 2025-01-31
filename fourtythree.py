@@ -1,6 +1,6 @@
 import requests
 # URL of the public API
-url = "https://fsonplaceholder_typicode.com/posts"
+url = "https://www.freetestapi.com/api/v1/movies"
 # Send a GET request to the API
 response = requests.get(url)
 # Check if the request was successful (status code 200)

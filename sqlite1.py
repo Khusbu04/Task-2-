@@ -16,6 +16,7 @@ cursor.execute("SELECT * FROM products")
 for row in cursor.fetchall():
     print(row)
 connection.close()
+#        OR
 # Using SQLAlchemy for database interaction
 from sqlalchemy import create_engine, Column, Integer, String, Float
 from sqlalchemy.ext.declarative import declarative_base

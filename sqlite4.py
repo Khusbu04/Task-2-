@@ -1,4 +1,4 @@
-# Assignment
+# Assignment wrong
 import request 
 import csv
 import smtplib
@@ -37,5 +37,5 @@ try:
     print("Email sent successfully!")
 except Exception as e:
     print(f"Error: {e}")
-# wrong
+
 
